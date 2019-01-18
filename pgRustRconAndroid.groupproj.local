@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
-  <Default.Personality>
-    <Projects ActiveProject="C:\Users\adria\OneDrive\QuantumSoftware\Android\RustRcon\RustRconAndroid.dproj"/>
-  </Default.Personality>
+	<Transactions/>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\adria\Documents\GitHub\Rust-Rcon-Android\RustRconAndroid.dproj"/>
+	</Default.Personality>
 </BorlandProject>
