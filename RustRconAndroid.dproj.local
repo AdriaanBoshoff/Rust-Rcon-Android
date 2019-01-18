@@ -5,9 +5,9 @@
     <Transaction>2018/11/28 12:52:37.000.604,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/12/21 23:21:45.000.351,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/01/18 21:46:12.000.080,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/01/18 21:46:59.000.860,C:\Users\adria\OneDrive\QuantumSoftware\Android\ufrmMain.fmx=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019/01/18 21:46:59.000.860,C:\Users\adria\OneDrive\QuantumSoftware\Android\ufrmMain.pas=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/01/18 21:47:07.000.248,C:\Users\adria\OneDrive\QuantumSoftware\Android\RustRconAndroid.dproj=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/18 21:46:59.000.860,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\Android\ufrmMain.pas</Transaction>
+    <Transaction>2019/01/18 21:46:59.000.860,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\adria\OneDrive\QuantumSoftware\Android\ufrmMain.fmx</Transaction>
+    <Transaction>2019/01/18 21:47:07.000.248,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adria\OneDrive\QuantumSoftware\Android\RustRconAndroid.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile Android="4TE7N17106008306"/>
