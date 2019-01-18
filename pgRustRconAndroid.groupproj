@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{19E9285A-695E-4BA7-AA47-116B07DA3001}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="RustRconAndroid.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="RustRconAndroid">
+        <MSBuild Projects="RustRconAndroid.dproj"/>
+    </Target>
+    <Target Name="RustRconAndroid:Clean">
+        <MSBuild Projects="RustRconAndroid.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RustRconAndroid:Make">
+        <MSBuild Projects="RustRconAndroid.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="RustRconAndroid"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="RustRconAndroid:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="RustRconAndroid:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
